@@ -30,7 +30,7 @@
     "url": "git+https://github.com/sharafutdinovdi/forma-extension-kit.git"
   },
   "bugs": { "url": "https://github.com/sharafutdinovdi/forma-extension-kit/issues" },
-  "homepage": "https://github.com/sharafutdinovdi/forma-extension-kit#readme",
+  "homepage": "https://sharafutdinov.online/products/forma-extension-kit",
   "author": "Dinar Sharafutdinov",
   "license": "MIT",
   "keywords": ["autodesk", "forma", "extensions", "typescript"]
