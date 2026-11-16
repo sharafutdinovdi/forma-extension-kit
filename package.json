@@ -23,7 +23,7 @@
   "peerDependencies": { "forma-embedded-view-sdk": ">=0.96 <1" },
   "devDependencies": {
     "forma-embedded-view-sdk": "0.96.0",
-    "typescript": "~5.9.3"
+    "typescript": "~7.0.2"
   },
   "repository": {
     "type": "git",
